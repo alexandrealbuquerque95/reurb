@@ -4,7 +4,7 @@
         bare = false
         logallrefupdates = true
 [remote "origin"]
-        url = ssh://git@https://github.com/alexandrealbuquerque95/reurb/api.git
+        url = ssh://git@https://github.com/alexandrealbuquerque95/reurb/app-reurb.git
         fetch = +refs/heads/*:refs/remotes/origin/*
 [branch "master"]
         remote = origin
