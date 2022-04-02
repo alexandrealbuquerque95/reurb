@@ -1,2 +1,2 @@
-class Login {
+export class Login {
 }
